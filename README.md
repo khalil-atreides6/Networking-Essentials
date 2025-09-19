@@ -2,7 +2,7 @@
 
 
 
-# Networking Essentials Assignment
+# Networking Assignment
 
 This project demonstrates a simple **network topology** built using Cisco Packet Tracer.
 
