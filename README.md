@@ -1,5 +1,5 @@
 # Networking-Essentials
-![Network Topology](topology.png)
+
 
 
 # Networking Essentials Assignment
