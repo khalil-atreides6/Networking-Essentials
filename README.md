@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # Networking-Essentials
 # Networking Essentials Assignment
+=======
+
+
+
+
+# Networking Assignment
+>>>>>>> 3d08e3b2cac9f04d3905576aed78810b547debb4
 
 This project demonstrates a simple **network topology** built using Cisco Packet Tracer.
 
@@ -42,6 +50,7 @@ This project demonstrates a simple **network topology** built using Cisco Packet
 ## 📖 Author
 - *Khalil_atreides*  
 - University: *[KNUST]*  
+<<<<<<< HEAD
 - Course: *Cybersecurity Internship*  
 
 
@@ -50,4 +59,7 @@ This project demonstrates a simple **network topology** built using Cisco Packet
 
 
 
+=======
+- Course: *CyberSecurity Internship*  
+>>>>>>> 3d08e3b2cac9f04d3905576aed78810b547debb4
 
