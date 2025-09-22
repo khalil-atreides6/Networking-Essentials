@@ -1,65 +1,38 @@
-<<<<<<< HEAD
-# Networking-Essentials
-# Networking Essentials Assignment
-=======
+# Networking Essentials Assignments  
 
-
-
-
-# Networking Assignment
->>>>>>> 3d08e3b2cac9f04d3905576aed78810b547debb4
-
-This project demonstrates a simple **network topology** built using Cisco Packet Tracer.
+This repository contains my Cisco Packet Tracer assignments for Networking Essentials.  
 
 ---
 
-## 📌 Network Setup
-- **CyberLab**: 16 PCs + 1 Switch  
-- **CommLab**: 12 PCs + 1 Switch  
-- **Core Switch**: Connects both labs  
+## 📂 Contents  
+- **Task 1 – Basic Switch Network**  
+  - CyberLab (16 PCs + 1 switch)  
+  - CommLab (12 PCs + 1 switch)  
+  - Connected with a core switch  
+  - File: `Networking_Basics/CyberComm_Network.pkt`  
+  - Screenshot: `topology.png`  
 
-**Total devices:** 28 PCs, 3 switches  
-
----
-
-## 🖼️ Network Topology
-![Network Topology](topology.png)
-
----
-
-## 🔧 Configuration
-- IP Address Range: `192.168.1.1` → `192.168.1.28`  
-- Subnet Mask: `255.255.255.0`  
-- All devices are in the same network (single subnet).  
-
----
-
-## 📂 File Info
-- Packet Tracer file: `Networking_Basics/my_topology.pkt`  
-- Screenshot: `topology.png`  
+- **Task 2 – Three Router Network**  
+  - Configured 3 routers (Router3, Router4, Router5)  
+  - LANs:  
+    - COE: `192.168.0.0/24`  
+    - KSB: `172.168.0.0/24`  
+    - COS: `10.10.10.0/24`  
+  - Connected with router-to-router links (`/30` subnets)  
+  - Static routes configured for full connectivity  
+  - File: `Networking_Basics/Task_2.pkt`  
+  - (Optional) Screenshot: `topology-task2.png`  
 
 ---
 
-## ✅ How to Run
-1. Open the `.pkt` file in **Cisco Packet Tracer**.  
-2. Check connectivity by pinging across PCs.  
-3. Explore switch connections for CyberLab and CommLab.  
+## 🚀 How to Open  
+1. Download the `.pkt` files from the `Networking_Basics` folder.  
+2. Open them using **Cisco Packet Tracer (v8.2.2 or newer recommended)**.  
+3. Verify connectivity with `ping` across PCs in different LANs.  
 
 ---
 
-## 📖 Author
+## 📖 Author  
 - *Khalil_atreides*  
 - University: *[KNUST]*  
-<<<<<<< HEAD
-- Course: *Cybersecurity Internship*  
-
-
-
-
-
-
-
-=======
-- Course: *CyberSecurity Internship*  
->>>>>>> 3d08e3b2cac9f04d3905576aed78810b547debb4
-
+- Course: *Computer Networking*  
